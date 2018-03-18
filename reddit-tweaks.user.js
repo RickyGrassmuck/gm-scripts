@@ -4,7 +4,7 @@
 // @include https://reddit.com/*
 // @include https://*.reddit.com/*
 // @grant none
-// @version 1.0.2
+// @version 1.0.3
 // ==/UserScript==
 
 
